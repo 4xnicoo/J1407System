@@ -1,0 +1,10 @@
+*.log
+*.tmp
+*.bak
+*.psd
+*.kra
+*.bin
+Cache
+Thumbs.db
+.DS_Store
+GameData/*/PluginData/cache/
